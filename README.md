@@ -1,7 +1,7 @@
 # Intario AI — AI-Powered Interior Design & Real-Time AR Platform
 
 <p align="center">
-  <img src="[assets/images/logo.png](https://github.com/Muntazir-43/intario-ai/blob/main/assets/logo_icon/Intario_Logo.png)" alt="Intario AI Logo" width="120" height="120" />
+  <img src="assets/logo_icon/Intario_Logo.png" alt="Intario AI Logo" width="120" height="120" />
 </p>
 
 <p align="center">
