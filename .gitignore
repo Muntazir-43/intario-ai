@@ -1,0 +1,75 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ & VS Code
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Flutter / Dart
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+**/build/
+coverage/
+
+# Android Native & Gradle
+.gradle/
+**/android/.gradle/
+**/android/app/build/
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+local.properties
+key.properties
+*.keystore
+*.jks
+
+# Unity Engine Generated (CRITICAL for AR Modules)
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+**/.utmp/
+**/*BackUpThisFolder*
+**/*BurstDebugInformation*
+**/*ExportedProject*
+
+# Unity Visual Studio / Rider Project Files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Compiled Binary Packages
+*.apk
+*.aab
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
