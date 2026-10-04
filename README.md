@@ -42,16 +42,34 @@ Built with **Flutter** and integrated with **Unity AR** via native Android chann
 * **Seasonal & Thematic Styling**: 7 seasonal themes (e.g., Christmas, Halloween, Autumn, Spring) for holiday transformations.
 * **Interactive Before/After Comparison**: Real-time interactive split slider widget for instant transformation inspection.
 
+<p align="center">
+  <img src="assets/App_Screenshots/App%20WorkFlow.png" alt="Intario AI WorkFlow"/>
+</p>
+
 ### 👓 Real-Time AR Spatial Computing (Powered by Unity & Google ARCore)
 * **AR Wall Color Visualizer**:
   * Point-based procedural 3D wall mesh generation (`WallMeshGenerator.cs`).
   * Real-time wallpaper texture mapping, reticle aiming, and surface area/perimeter measurement.
+
+ <p align="center">
+  <img src="assets/App_Screenshots/Wall%20Color%20Visualizer.png" alt="Intario AI Wall Color Visualizer"/>
+</p>
+  
 * **AR Wall Decor Visualizer**:
   * Vertical plane detection for hanging artwork, framed city maps, paintings, and wall lamps.
   * 6-DOF touch manipulation (translation, surface-snapped rotation, and scale).
+
+ <p align="center">
+  <img src="assets/App_Screenshots/Wall%20Decor%20Visualizer.png" alt="Intario AI Wall Decor Visualizer"/>
+</p>
+  
 * **AR Furniture Visualizer**:
   * Horizontal ground-plane tracking for 3D furniture models (classic living sets, dining sets, coffee tables, accent chairs, luxury sofas).
   * 1:1 true-scale physical dimension rendering, 360° rotational control, collision-aware placement, and elevation anchoring.
+ 
+  <p align="center">
+  <img src="assets/App_Screenshots/Furniture%20Visualizer.png" alt="Intario AI Wall Decor Visualizer"/>
+</p>
 
 ---
 
