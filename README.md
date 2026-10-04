@@ -225,7 +225,7 @@ Intario AI utilizes a custom dark-first glassmorphism design language:
 ## 🎓 Academic FYP Information
 
 * **Project Title**: Intario AI — AI-Powered Interior Design & Real-Time AR Platform
-* **Degree**: Bachelor of Science in Computer Science / Software Engineering
+* **Degree**: Bachelor of Science in Software Engineering
 * **Project Type**: Final Year Project (FYP)
 
 ---
