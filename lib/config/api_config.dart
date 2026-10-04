@@ -1,2 +1,2 @@
-const String apiKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5X3V1aWQiOiI5MGQzNDUyZS0wM2M0LTRlN2MtYjMzYy1jZTczNjg1ODM0YmYifQ.WBbybdlTjCtkcg9x4IuDDzO-7nfjfQO87zbQnPDlSSI';
+const String apiKey = 'YOUR_DECOR8_API_KEY';
 const String baseUrl = 'https://api.decor8.ai';
